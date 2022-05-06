@@ -3,7 +3,7 @@ import time as vaqt
 sorov = "ha"
 while sorov =="ha":
     compchoice = random.randint(0, 999)
-    print("Raqam tanlash uchun 0dan katta 999dan kichik son tanlang ♨  ‼")
+    print("Diqqat !\nDiqqat !\nRaqam tanlash uchun 0dan katta 999dan kichik son tanlang ‼ \naks holda siz tanlagan son 0ga tenglashtiriladi")
     humanchoice = int(input("eng baland uch xonali son tanlang = "))
     if humanchoice > 999:
         humanchoice = 0
