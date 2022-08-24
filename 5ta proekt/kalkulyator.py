@@ -17,4 +17,7 @@ while sorov == "ha":
     if sorov == "yoq":
         sorov = input("Ok 😉 , \n Yana kerak bo`lsam ha buyrug`ini kiriting : ")
     else:
-        print(f"{sorov} <= Xato, ha yoki yoq burug`idan foydalaning")
+        if sorov == None:
+            print(f"Bu buyrug' topilmadi! {sorov} , ha yoki yoq burug`idan foydalaning")
+        else:
+            print("buyrug' kiritilmadi")
