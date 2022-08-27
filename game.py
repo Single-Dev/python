@@ -13,7 +13,7 @@ while sorov =="ha":
     elif humanchoice < 0:
         humanchoice = 0
     if humanchoice > compchoice:
-        
+        print(f"natijalar hioblanmoqda siz {humanchoice}ni tanladingiz bot esa {compchoice}ni tanladi")
         vaqt.sleep(1)
         print("👌✌️🥳🥳Siz yutdungiz")
     elif humanchoice < compchoice:
