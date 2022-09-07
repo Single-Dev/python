@@ -7,6 +7,6 @@ name6 = input("ismni kirting: ")
 
 namas = [name, name2, name3,name4,name5,name6]
 
-result = sorted(namas)
+natija = sorted(namas)
 
-print(result)
+print(natija)
