@@ -5,5 +5,5 @@
 #### [game.py](https://github.com/Bekzodbek2006/python/blob/main/game.py) Raqamli o`yin bot random orqali raqam tanlaydi
 #### [print.py](https://github.com/Bekzodbek2006/python/blob/main/print.py) orqali print() dagi maklumotlarni yangilash mumkin
 #### [sql3.py](https://github.com/Bekzodbek2006/python/blob/main/sql3.py) sql3 bilan ishlash va ma`lumotlarni qidirish
-#### [search.py](https://github.com/Bekzodbek2006/python/blob/main/saerch.py] fayllarni qidirsh uchun
+#### [search.py](https://github.com/Bekzodbek2006/python/blob/main/saerch.py) fayllarni qidirsh uchun
 #### [threading.py](https://github.com/Bekzodbek2006/python/blob/main/threading.py) threading haqida
