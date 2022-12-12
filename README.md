@@ -7,3 +7,4 @@
 #### [sql3.py](https://github.com/Bekzodbek2006/python/blob/main/sql3.py) sql3 bilan ishlash va ma`lumotlarni qidirish
 #### [search.py](https://github.com/Bekzodbek2006/python/blob/main/saerch.py) fayllarni qidirsh uchun
 #### [threading.py](https://github.com/Bekzodbek2006/python/blob/main/threading.py) threading haqida
+#### [qr.py](https://github.com/Bekzodbek2006/python/blob/main/qr.py) orqali QR code yarating.
